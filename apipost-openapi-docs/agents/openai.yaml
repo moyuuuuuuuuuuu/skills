@@ -1,0 +1,6 @@
+interface:
+  display_name: "ApiPost OpenAPI Docs"
+  short_description: "Create, update, delete, and inspect ApiPost API docs through OpenAPI."
+  default_prompt: "Use $apipost-openapi-docs to manage ApiPost API documentation from an OpenAPI definition."
+policy:
+  allow_implicit_invocation: true

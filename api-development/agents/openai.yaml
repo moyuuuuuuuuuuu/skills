@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Development"
+  short_description: "跨技术栈完成接口实现与修复，核对权限和兼容性并完成验证及文档同步"
+  default_prompt: "使用 $api-development 完成当前接口需求，遵循项目架构并验证合同、权限和文档。"
