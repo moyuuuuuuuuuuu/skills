@@ -1,0 +1,4 @@
+interface:
+  display_name: "汽水音乐广告奖励循环"
+  short_description: "领取汽水音乐免费听视频奖励，识别领取成功并取消自动进入直播间"
+  default_prompt: "使用 $qishui-music-reward-loop，通过当前手机投屏领取汽水音乐的免费听视频奖励，运行 10 分钟，遇到自动进入直播间时点击取消。"
