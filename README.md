@@ -8,6 +8,7 @@
 | [git-publish](git-publish/SKILL.md) | 限定范围的 Git 提交、推送和合并 |
 | [show-me](show-me/SKILL.md) | 使用流程图、调用树和 HTML 解释逻辑 |
 | [apipost-openapi-docs](apipost-openapi-docs/SKILL.md) | ApiPost 接口文档管理和同步 |
+| [xiaomi-reward-loop](xiaomi-reward-loop/SKILL.md) | 通过小米妙享桌面循环领取视频广告奖励，取消自动进入直播间，并按次数或时长停止 |
 
 ## 使用
 

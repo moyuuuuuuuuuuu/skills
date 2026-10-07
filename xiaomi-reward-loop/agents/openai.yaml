@@ -1,0 +1,4 @@
+interface:
+  display_name: "小米手机广告奖励循环"
+  short_description: "通过小米妙享桌面领取视频奖励，识别完成状态并取消自动进入直播间"
+  default_prompt: "使用 $xiaomi-reward-loop，通过小米互联服务领取手机上的视频奖励，运行 10 分钟，遇到自动进入直播间时点击取消。"
